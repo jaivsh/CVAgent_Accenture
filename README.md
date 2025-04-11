@@ -1,6 +1,6 @@
 ## ⚠️ Deployment Note
 
-Due to resource limitations during deployment, we were unable to run the full Ollama local LLM pipeline, which requires at least 16GB RAM. Our available virtual machines could not support this without switching to a paid cloud instance (e.g., AWS EC2). As a result, we have included a placeholder link or mocked output in the submission to demonstrate the expected agent interactions and flow.
+Due to resource limitations during deployment, we were unable to deploy the full Ollama local LLM pipeline, which requires at least 16GB RAM. For deploying such a setup, we required paid versions of the VMs available in the marketplace. As a result, we have included a placeholder link or mocked output in the submission to demonstrate the expected agent interactions and flow.
 
 The system has been structured modularly such that the actual LLM agents can be integrated seamlessly once appropriate compute resources become available.
 
